@@ -1,0 +1,30 @@
+== README
+
+
+
+* Home 
+
+* About Us
+
+  ** Overview
+  ** Mission and Vision
+  ** Our values and people 
+
+* Services
+	** Overview
+	** Consulting Services
+	** Our Clients
+	** Product Development
+
+* Careers
+
+	** Overview
+	** Benefits
+	** Job Portal
+	** Job Openings
+
+* Contact Us
+
+
+
+
