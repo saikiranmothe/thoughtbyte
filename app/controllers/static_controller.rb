@@ -34,4 +34,10 @@ class StaticController < ApplicationController
 
   def contact
   end
+
+  def job_portal
+  end
+
+  def current_openings
+  end
 end
